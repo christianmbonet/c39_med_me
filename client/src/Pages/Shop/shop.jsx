@@ -10,7 +10,7 @@ import natural from '../../Images/natural.png';
 import pain from '../../Images/pain.png';
 import personal from '../../Images/personal.png';
 import vitamin from '../../Images/vitamin.png';
-import './shop.css';
+import './Shop.css';
 import '../../components/Search/Searchbar.css';
 import { AppContext } from '../../context/AppContext';
 
