@@ -1,0 +1,7 @@
+.iphone {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 375px;
+  height: 812px;
+}

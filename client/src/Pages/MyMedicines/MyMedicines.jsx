@@ -5,15 +5,17 @@ import '../MyMedicines/MyMedicines.css';
 
 const MyMeds = () => {
   return (
-    <div>
-      <header className="bluebox">
-        <div className="logorow">
-          <img className="logomymeds" src={logo} alt="medmelogo" />
-        </div>
-        <div className="cabinetlogorow">
-          <img className="cabinetlogo" src={cabinet} alt="cabinetlogo" />
-        </div>
-      </header>
+    <div className="iphone">
+      <div>
+        <header className="bluebox">
+          <div className="logorow">
+            <img className="logomymeds" src={logo} alt="medmelogo" />
+          </div>
+          <div className="cabinetlogorow">
+            <img className="cabinetlogo" src={cabinet} alt="cabinetlogo" />
+          </div>
+        </header>
+      </div>
     </div>
   );
 };
